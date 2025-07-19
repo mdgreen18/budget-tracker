@@ -1,0 +1,4 @@
+# Optional libraries for data analysis & plotting
+pandas
+matplotlib
+
